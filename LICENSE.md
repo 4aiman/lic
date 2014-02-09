@@ -1,4 +1,4 @@
-Copyright (c) 2013, 4aiman Konsorumaniakku <4aiman@inbox.ru>
+(c) 4aiman Konsorumaniakku <4aiman@inbox.ru>
 
 Permission to use, copy, modify, and/or distribute this software or/and it's derivatives for any purpose without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all those copies or derivatives.
 
